@@ -1,7 +1,17 @@
 
 ### Hi there 👋, my name is Girish Vardhan
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+![I am GitHub Readme Generator's creator](https://i.pinimg.com/originals/c7/47/94/c747945f78f49103ebb48976b2247592.gif)
+
+
+
+Skills: Java/Python
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/energyperformer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/don_of_today/)  
+
 
 
 I am a hero for fun
