@@ -11,3 +11,4 @@
 - ⚡ Fun fact: ...
 -->
 ![Girish's GitHub stats](https://github-readme-stats.vercel.app/api?username=energyperformer&show_icons=true)
+![Girish's GitHub stats](https://github-readme-stats.vercel.app/api?username=energyperformer&show_icons=true&theme=radical)
