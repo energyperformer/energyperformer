@@ -28,6 +28,7 @@ Skills: Java/Python
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/energyperformer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/don_of_today/)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlsathvik04)](https://github.com/dlsathvik04/github-readme-stats)
 
 
 ![Girish's GitHub stats](https://github-readme-stats.vercel.app/api?username=energyperformer&show_icons=true&theme=radical)
