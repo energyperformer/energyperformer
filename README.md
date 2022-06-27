@@ -19,7 +19,7 @@ Skills: Java/Python
 
 ![Profile views](https://gpvc.arturio.dev/energyperformer)  
 
-I am a hero for fun
+
 
 Skills: Java/Python
 
