@@ -2,7 +2,7 @@
 ### Hi there 👋, my name is Girish Vardhan
 ![](https://i.pinimg.com/originals/c7/47/94/c747945f78f49103ebb48976b2247592.gif)
 
-I am a hero for fun
+
 
 Skills: Java/Python
 
