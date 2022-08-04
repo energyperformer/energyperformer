@@ -15,7 +15,7 @@ Skills: Java/Python
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=energyperformer)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=energyperformer)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=energyperformer)](https://github.com/energyperformer/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/energyperformer)  
 
