@@ -33,6 +33,5 @@ Skills: Java/Python
 ![Girish's GitHub stats](https://github-readme-stats.vercel.app/api?username=energyperformer&show_icons=true&theme=radical)
 
 
-[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=energyperformer/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=energyperformer/badges)
 
 
