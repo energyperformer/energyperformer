@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Girish Vardhan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=energyperformer&label=Profile%20views&color=0e75b6&style=flat" alt="energyperformer" /> </p>
+![](https://i.pinimg.com/originals/c7/47/94/c747945f78f49103ebb48976b2247592.gif)
+
+
 
 <p align="left"> <a href="https://twitter.com/vardhan" target="blank"><img src="https://img.shields.io/twitter/follow/vardhan?logo=twitter&style=for-the-badge" alt="vardhan" /></a> </p>
 
@@ -28,3 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=energyperformer&" alt="energyperformer" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=energyperformer&label=Profile%20views&color=0e75b6&style=flat" alt="energyperformer" /> </p>
