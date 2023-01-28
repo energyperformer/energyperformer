@@ -1,7 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Girish Vardhan</h1>
+### Hi there 👋, my name is Girish Vardhan
 ![](https://i.pinimg.com/originals/c7/47/94/c747945f78f49103ebb48976b2247592.gif)
-
 
 
 <p align="left"> <a href="https://twitter.com/vardhan" target="blank"><img src="https://img.shields.io/twitter/follow/vardhan?logo=twitter&style=for-the-badge" alt="vardhan" /></a> </p>
