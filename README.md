@@ -2,6 +2,8 @@
 ### Hi there 👋, my name is Girish Vardhan
 ![](https://i.pinimg.com/originals/c7/47/94/c747945f78f49103ebb48976b2247592.gif)
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//girish-vardhan-0460a9250/)
 
 <p align="left"> <a href="https://twitter.com/vardhan" target="blank"><img src="https://img.shields.io/twitter/follow/vardhan?logo=twitter&style=for-the-badge" alt="vardhan" /></a> </p>
 
