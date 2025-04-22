@@ -10,7 +10,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/girishvardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="girish vardhan" height="30" width="40" /></a>
 
-<a href="https://www.codechef.com/users/dr_holmes" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbYQVq17d3AJTeHVrSidugpEx_LUhlYeO5DA&s)" alt="dr_holmes" height="30" width="40" /></a>
 <a href="https://leetcode.com/energyperformer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="margana girish vardhan" height="30" width="40" /></a>
 </p>
 
