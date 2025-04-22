@@ -1,6 +1,5 @@
 
 ### Hi there 👋, my name is Girish Vardhan
-![](https://i.pinimg.com/originals/c7/47/94/c747945f78f49103ebb48976b2247592.gif)
 
 
 - 🌱 I’m currently learning **Blockchain development**
@@ -9,10 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/girish vardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="girish vardhan" height="30" width="40" /></a>
-<a href="https://kaggle.com/girish55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="girish55" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/girishvardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="girish vardhan" height="30" width="40" /></a>
+
 <a href="https://www.codechef.com/users/dr_holmes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dr_holmes" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/marganagirishvardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="marganagirishvardhan" height="30" width="40" /></a>
 <a href="https://leetcode.com/energyperformer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="margana girish vardhan" height="30" width="40" /></a>
 </p>
 
